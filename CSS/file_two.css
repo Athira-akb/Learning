@@ -1,0 +1,40 @@
+body{
+    background: url("https://wallpaperplay.com/walls/full/8/8/a/78866.jpg");
+    background-repeat: no-repeat;
+}
+p{color: brown;}
+
+/*Class*/
+.firstdiv{
+    background-color: #fdff2f;
+    border-width: 5px;
+    border: #ff6523;
+    border-style: double;
+}
+span{
+    background: #fff9ca;
+    color: #f045ff;
+    border: #ff0a19;
+    border-width: thick;
+    border-style: groove;
+}
+h2{color: #ff6523;}
+h3{color: #fff9ca}
+
+h1 + p{color: blue}
+
+/*ID*/
+#intro2{color: aliceblue}
+#intro3{color: aliceblue}
+
+.seconddiv{
+    color: #fff9ca;
+    border: 4px dotted peru;
+}
+
+#list1{
+    border: 2px double peru;
+}
+#list2{
+    border: 2px double peru;
+}
